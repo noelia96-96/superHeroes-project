@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "superheroes-project"
+    }
+  },
+  "defaultProject": "superheroes-project",
+  "cli": {
+    "analytics": false
+  }
 }
